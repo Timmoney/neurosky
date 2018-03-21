@@ -1,5 +1,5 @@
 This is a protoytpe, a little bit buggy, but still work.
-The purpose for this application is to exame the brainwave response according to different size throught visual stimuli.
+The purpose for this application is to exame the brainwave response according to different size through visual stimuli.
 
 System Requirement:
 1. Windows System 8 or 10
